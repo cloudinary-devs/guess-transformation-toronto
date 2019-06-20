@@ -1,8 +1,10 @@
-# Transformation Challenge
+# Cloudinary's Guess the Transformation Challenge: SmashingConf Toronto 2019
 
-This challenge involves guessing a Cloudinary transformation URL that produces a given target image from one \(or more\) given source image\(s\).
+![](.gitbook/assets/smashing-conference-toronto-2019-ca.jpg)
 
-## Source Images:
+### **This challenge involves guessing a Cloudinary transformation URL that produces a given target image from one \(or more\) given source image\(s\).**
+
+##                                              Source Images:
 
 #### Source image \#1: [https://res.cloudinary.com/demo/image/upload/fat\_cat.jpg](https://res.cloudinary.com/demo/image/upload/v1397656470/fat_cat.jpg)
 

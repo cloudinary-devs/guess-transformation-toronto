@@ -5,11 +5,11 @@ description: >-
   previous page.
 ---
 
-# Guess the Transformation
+# Now Guess the Transformation!
 
-Challenge Image \(**URL = ???**\):
+### Challenge Image \(**URL = ???**\):
 
 ![](.gitbook/assets/fat_cat-2.jpg)
 
-## Don't forget to submit your details and your guess of the challenge URL into the form that links to this page!
+## Submit your details and your guess of the challenge URL into the form provided here: [http://cloudinary.rocks/guess-6950](http://cloudinary.rocks/guess-6950)
 
