@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Transformation Challenge](README.md)
+* [Guess the Transformation](challenge-kickoff.md)
 
