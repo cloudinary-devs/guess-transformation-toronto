@@ -9,7 +9,7 @@ description: >-
 
 ### Challenge Image \(**URL = ???**\):
 
-![](.gitbook/assets/fat_cat-2.jpg)
+![](.gitbook/assets/fat_cat-3.jpg)
 
 ## Submit your details and your guess of the challenge URL into the form provided here: [http://cloudinary.rocks/guess-6950](http://cloudinary.rocks/guess-6950)
 
